@@ -1,5 +1,12 @@
 # circuit-breaker-pattern
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/circuit-breaker-pattern/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/circuit-breaker-pattern/actions)
+![License](https://img.shields.io/github/license/yksanjo/circuit-breaker-pattern)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/circuit-breaker-pattern)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/circuit-breaker-pattern)
+
 ## Detailed Description
 
 circuit-breaker-pattern is maintained as an industry-grade software project with production-ready engineering practices.  
